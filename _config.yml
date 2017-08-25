@@ -11,7 +11,9 @@ plugins:
 repository: flyve-mdm/flyve-mdm-windows-agent
 
 prose:
-
+  
+  rooturl: '_posts' 
+  
   ignore: 
     - .gitignore 
     - _config.yml
@@ -36,7 +38,9 @@ prose:
     - apple-touch-icon.png
     - README.md
     - robots.txt
-    - contact.html
+    - contact.html 
+    - .keep
+
 
   media: "images"
 
