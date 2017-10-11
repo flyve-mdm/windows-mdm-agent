@@ -1,9 +1,9 @@
-title: windows agent
+title: windows agent mdm
 email: ml-flyvemdm@teclib.com
 twitter: flyvemdm
-baseurl: "/flyve-mdm-windows-agent"
+baseurl: "/windows-agent-mdm"
 url: "http://flyve.org"   
-image: http://flyve.org/flyve-mdm-windows-agent/images/logo2.png
+image: http://flyve.org/windows-agent-mdm/images/logo2.png
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-repository: flyve-mdm/flyve-mdm-windows-agent
+repository: flyve-mdm/windows-agent-mdm
 
 prose:
   
