@@ -12,7 +12,7 @@
 
 Flyve MDM is a Mobile device management software that enables you to secure and manage all the mobile devices of your business or family via a web-based console.
 
-To get started, check out <https://flyve-mdm.com/>!
+To get started, check out [Flyve MDM Website](https://flyve-mdm.com/)!
 
 ## Table of contents
 
@@ -22,6 +22,7 @@ To get started, check out <https://flyve-mdm.com/>!
 * [Versioning](#versioning)
 * [Contribute](#contribute)
 * [Contact](#contact)
+* [Professional Services](#professional-services)
 * [Copying](#copying)
 
 ## Synopsis
@@ -52,7 +53,13 @@ guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our i
 ## Contact
 
 For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit.
-You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm).
+You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm) or [@flyvemdm on Telegram](https://t.me/flyvemdm).
+
+## Professional Services
+
+The Flyve MDM and GLPI Network services are available through our [Partner's Network](http://www.teclib-edition.com/en/partners/). We provide special training, bug fixes with editor subscription, contributions for new features, and more.
+
+Obtain a personalized service experience, associated with benefits and opportunities.
 
 ## Copying
 
