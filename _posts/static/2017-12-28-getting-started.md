@@ -5,6 +5,7 @@ published: true
 title: Getting Started
 permalink: howtos/getting-started
 description: Welcome to Flyve MDM
+category: user
 ---
 The Flyve MDM Agent for Windows allows you to manage the Windows devices of your fleet from the dashboard.
 

@@ -5,6 +5,7 @@ published: true
 title: How it works
 permalink: howtos/how-it-works
 description: A brief introduction
+category: user
 ---
 The Agent will take control of the Windows devices of your fleet allowing you to manage all the terminals by implementing the commands given through the dashboard.
 
